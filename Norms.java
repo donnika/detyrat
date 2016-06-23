@@ -1,7 +1,4 @@
-/**
- * @author Drita Shujaku
- *
- */
+
 
 import javax.swing.*;
 
